@@ -1,0 +1,8 @@
+.header_parent{
+    background-color: rgb(72, 202, 202);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 10px;
+    border: tomato solid 2px;
+}
