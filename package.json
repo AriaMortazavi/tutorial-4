@@ -20,7 +20,7 @@
   "homepage": "https://github.com/AriaMortazavi/tutorial-4#readme",
   "dependencies": {
     "dom": "0.0.3",
-    "next": "^9.3.3",
+    "next": "^11.1.3",
     "react-react": "^1.2.0"
   },
   "devDependencies": {
